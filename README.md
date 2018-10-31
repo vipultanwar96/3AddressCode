@@ -8,3 +8,6 @@ run these commands on windows:
 
 if you are getting m4 error:
 then delete bison.exe file and paste the given bison.exe file
+
+then enter the expressions like y=(a+b)*c;
+include ; otherwise it will give syntax error
